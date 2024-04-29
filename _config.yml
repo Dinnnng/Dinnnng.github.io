@@ -12,7 +12,7 @@ github_repo: "https://github.com/Dinnnng/Dinnnng.github.io.git" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "AIGC is future"
-sidebar-avatar: /img/wukong.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/wukong.png     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
